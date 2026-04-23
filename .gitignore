@@ -1,0 +1,16 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE 配置文件
+.vscode/
+.idea/
+*.swp
+
+# 编译产物
+*.class
+*.jar
+node_modules/
+dist/
+build/
